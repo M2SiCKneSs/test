@@ -27,4 +27,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M2SiCKneSs/test/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/M2SiCKneSs/test/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/M2SiCKneSs/test/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
